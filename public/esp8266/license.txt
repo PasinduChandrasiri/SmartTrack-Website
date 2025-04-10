@@ -1,0 +1,11 @@
+Model Information:
+* title:	ESP8266
+* source:	https://sketchfab.com/3d-models/esp8266-f7b9d556f9944094a043238350354d62
+* author:	JanoschR (https://sketchfab.com/JanoschR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ESP8266" (https://sketchfab.com/3d-models/esp8266-f7b9d556f9944094a043238350354d62) by JanoschR (https://sketchfab.com/JanoschR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

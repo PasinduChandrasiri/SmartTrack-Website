@@ -1,0 +1,11 @@
+Model Information:
+* title:	ESP32
+* source:	https://sketchfab.com/3d-models/esp32-78c2b5a932a1463bbc6e8ada630a0545
+* author:	davydtovstyj (https://sketchfab.com/davydtovstyj)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ESP32" (https://sketchfab.com/3d-models/esp32-78c2b5a932a1463bbc6e8ada630a0545) by davydtovstyj (https://sketchfab.com/davydtovstyj) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
